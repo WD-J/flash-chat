@@ -14,7 +14,3 @@ Incorporating Firebase into Flutter apps. In this case, highlighting Firebase Cl
 - Learn about Streams and how they work.
 - Learn to use ListViews to build scrolling views.
 - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp.
